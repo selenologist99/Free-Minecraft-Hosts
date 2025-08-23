@@ -1,6 +1,6 @@
 # Free Minecraft Hosts List!
 
-# I decided to concentrate the updates on the website: (https://fmhl.berserk.sbs/) I won't let the github list rotting but I won't update as much as the website.
+# I decided to concentrate the updates on the website: (https://myuui.com/) I won't let the github list rotting but I won't update as much as the website.
 
 # The website is fully operational; if you have suggestions, please contact us at devloo@berserk.sbs. We are always open to new ideas!
 <div align='center'>
