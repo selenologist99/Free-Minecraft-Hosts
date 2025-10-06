@@ -20,7 +20,7 @@
 </div>
 
 > [!NOTE]
-> Get the latest updates in (https://fmhl.berserk.sbs/)
+> Get the latest updates in (https://myuui.com/)
 > 
 
 
